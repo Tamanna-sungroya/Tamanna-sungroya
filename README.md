@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tamanna</h1>
+<h1 align="center">Hi 👋🏻, I'm Tamanna</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=F75C7E&center=true&vCenter=true&lines=Aspiring+Full+Stack+Developer;Computer+Science+Student;Passionate+about+Web+Development;Always+Learning+New+Things" />
@@ -6,7 +6,7 @@
 
 ---
 
-## 👩‍💼 About Me  
+## 🙋🏻‍♀️ About Me  
 A highly motivated and detail-oriented Computer Science student with a strong foundation in full-stack development.  
 I am passionate about building scalable web applications and solving real-world problems through efficient and clean code.  
 I continuously strive to learn, adapt, and grow in the ever-evolving tech landscape.
