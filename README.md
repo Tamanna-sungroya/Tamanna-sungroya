@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Tamanna  
+# 👋🏻 Hi, I'm Tamanna  
 
 🎓 Computer Science Student  
 💻 Aspiring Full Stack Developer  
@@ -6,7 +6,7 @@
 
 ---
 
-## 🧑‍💼 About Me  
+## 👩🏻‍💼 About Me  
 I am a passionate and detail-oriented developer with a strong interest in building scalable web applications.  
 I enjoy solving real-world problems through code and continuously learning new technologies to improve my skills.
 
