@@ -1,16 +1,58 @@
-## Hi there 👋
+# 👋 Hi, I'm Tamanna  
 
-<!--
-**Tamanna-sungroya/Tamanna-sungroya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student  
+💻 Aspiring Full Stack Developer  
+📍 India  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💼 About Me  
+I am a passionate and detail-oriented developer with a strong interest in building scalable web applications.  
+I enjoy solving real-world problems through code and continuously learning new technologies to improve my skills.
+
+---
+
+## 🛠️ Technical Skills  
+
+**Languages:**  
+C, C++, Java, Python
+
+**Frontend:**  
+React.js, HTML, CSS, Tailwind, Javascript 
+
+**Backend:**  
+Node.js, Express.js  
+
+**Database:**  
+MongoDB, MongoDB Atlas, MySQL, PostgreSQL, MariaDB
+
+**Tools & Technologies:**  
+Git, GitHub, Postman, VS Code, Ecllipse, IntelliJ 
+
+---
+
+## 📊 GitHub Stats  
+
+![Tamanna's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)  
+
+---
+
+## 📌 Key Strengths  
+- Problem Solving  
+- Clean Code Practices  
+- Team Collaboration  
+- Quick Learner  
+
+---
+
+## 🎯 Career Objective  
+To work in a challenging environment where I can enhance my skills and contribute to impactful projects while growing as a developer.
+
+---
+
+## 📫 Contact Me  
+
+📧 Email: sungroyat@gmail.com  
+💼 LinkedIn: [https://linkedin.com/in/your-profile ](https://www.linkedin.com/in/tamanna-3b3627297/) 
+
+---
