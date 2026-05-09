@@ -196,13 +196,13 @@ React • Real-time Systems
 ## 📊 GITHUB INSIGHTS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tamanna-sungroya&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=Tamanna-sungroya&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tamanna-sungroya&theme=tokyonight&hide_border=true" width="48%"/>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tamanna-sungroya&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>
-</p>
+</p> -->
 
 ---
 
