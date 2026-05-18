@@ -12,7 +12,7 @@
 
 ## 🙋🏻‍♀️ ABOUT ME
 
-Computer Science student focused on building **scalable, production-ready web applications**.
+B.E Computer Science Engineering student focused on building **scalable, production-ready web applications**.
 
 I enjoy working across the full stack — from designing modern UI experiences to building powerful backend systems and integrating intelligent features into real-world products with interest in learning and contributing to data-driven and cloud-based systems in collaborative environments.
 
